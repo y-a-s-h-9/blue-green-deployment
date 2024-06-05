@@ -27,7 +27,8 @@ In a blue-green deployment, there are two identical environments: blue (the curr
 
  
 
-    <img src="https://github.com/y-a-s-h-9/blue-green-deployment/assets/101511684/e4ca53b9-2eb0-4550-a4f8-87ec4dec79ce" alt="bg-2" width="750" height="500">
+    <img src="https://github.com/y-a-s-h-9/blue-green-deployment/assets/101511684/aac62d43-f1e8-4a8d-bb3c-7c0d41d6b8fb" alt="bg-2" width="750" height="500">
+
 
 
 
