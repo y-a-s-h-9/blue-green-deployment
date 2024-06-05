@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: blue-green-deploy
+spec:
+  type: LoadBalancer
+  selector:
+    app: web
+    version: blue
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 80
+
