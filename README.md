@@ -24,6 +24,13 @@ In a blue-green deployment, there are two identical environments: blue (the curr
    
 4. **Rollback**: If any issues are encountered during the deployment, traffic can be immediately reverted back to the blue environment.
 
+
+ 
+
+    <img src="https://github.com/y-a-s-h-9/blue-green-deployment/assets/101511684/e4ca53b9-2eb0-4550-a4f8-87ec4dec79ce" alt="bg-2" width="750" height="500">
+
+
+
 ## Implementation
 
 ### Prerequisites
